@@ -81,9 +81,9 @@ Four models were fit on the training data and evaluated on the test data using a
 - Decision Tree
 
 The accuracies of the models on the test data were:
-- Logistic Regression Accuracy: 0.9513
-- Support Vector Machine Accuracy: 0.9496
-- Naive Bayes Accuracy: 0.8801
-- Decision Tree Accuracy: 0.9277
+- Logistic Regression Accuracy: 0.8736
+- Support Vector Machine Accuracy: 0.7213
+- Naive Bayes Accuracy: 0.8005
+- Decision Tree Accuracy: 0.9274
 
 Based on the results, it can be concluded that the logistic regression and support vector machine models performed the best in predicting whether a webpage is legitimate or a phishing page.
